@@ -1,0 +1,8 @@
+   degree: "Bachelor of Technology",
+      field: "Computer Science Engineering",
+      university: "Babu Banarasi Das University, Lucknow",
+      duration: "2020 - 2024",
+      percentage: "83%",
+      sgpa: "8.4",
+      image:
+        "https://bbdu.ac.in/wp-content/uploads/2017/12/talent-grids-bbdgei-bbdu-logo-300x300.png",
